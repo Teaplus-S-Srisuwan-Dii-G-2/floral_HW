@@ -1,0 +1,88 @@
+*{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+body .container{
+    margin: 20px;
+    padding: 20px;
+    border-style: none;
+}
+
+.breadcrumb{
+    font-size: 12px;
+}
+
+li.nav-item{
+    margin-top: 10;
+    margin-bottom: 10;
+    margin: 0px 35px;
+    font-size: 27px;
+    padding-right: 35px;
+    margin-right: 0px;
+    padding-left: 35px;
+    margin-left: 0px;
+
+}
+
+li.list-group-item{
+    font-size: 16px;
+    border: none;
+}
+
+nav.navigation{
+    margin-top: 20px;
+    align-self: center;
+}
+
+svg{
+    margin-top: 2px;
+    margin-bottom: 4px;
+    color: yellow;
+}
+
+.page-item{
+    margin-top: 16px ;
+    margin-bottom: 45px;
+}
+
+nav{
+    margin-left: 28px;
+    padding: 0;
+}
+
+h1{
+    display: inline;
+    margin-right: 10px;
+
+}
+
+.bi-facebook{
+    color: blue;
+    display: inline;
+    margin-right: 2px;
+}
+
+.bi-twitter{
+    color: cadetblue;
+    display: inline;
+    margin-right: 2px;
+}
+
+.bi-Pinterest{
+    margin-right: 2px;
+}
+
+.bi-google{
+    color: limegreen;
+    display: inline;
+    margin-right: 2px;
+}
+
+li.nav-item:hover{
+    background-color: gray;
+    color: lightgrey;
+}
+
+.card-body{
+    background: radial-gradient( rgb(233, 231, 231), lightgrey, rgb(233, 231, 231))
+}
